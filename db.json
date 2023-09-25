@@ -1,7 +1,24 @@
 {
   "posts": [
     {
+      "title": "James Willy",
+      "body": "jameswilly@gmail.com",
       "id": 2
+    },
+    {
+      "title": "Deekshitha",
+      "body": "deek@gmail.com",
+      "id": 3
+    },
+    {
+      "title": "Sujitha",
+      "body": "Sujitha Theivam",
+      "id": 4
+    },
+    {
+      "title": "priya",
+      "body": "priyaatlee@gmail.com",
+      "id": 5
     }
   ]
 }

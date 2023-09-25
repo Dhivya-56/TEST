@@ -11,6 +11,81 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.my_form{
-  width:500px;
+body{
+  background-color: #d7a380;
+}
+.App{
+  text-align: center;
+ border:1px solid black;
+ width:600px;
+ margin:auto;
+ height: auto ;
+border-radius: 15px;
+position:relative;
+top:60px;
+background-color: #b3ecff;
+
+}
+
+.Add_post_butn{
+  margin-bottom:20px;
+  position:relative;
+ left:250px;
+
+}
+.update_btn,.delete_btn{
+float:right;
+}
+.save_post{
+height:auto;
+}
+.datas{
+  display:flex;
+  justify-content: space-between;
+  margin-left:10px;
+  margin-right: 10px;
+ 
+}
+.update_delete_btn{
+  position:relative;
+top:30px;
+}
+.popup{
+  border:1px solid black;
+  width:400px;
+  margin-top:40px;
+  padding:30px;
+  margin-left: 100px;
+  border-radius:10px;
+  box-shadow: 10px 10px 18px #888888;
+  background-color: #dc6fb8;
+
+}
+.close_butn{
+  margin-left:30px;
+}
+.align_update_box{
+  display:flex;
+  flex-direction: column;
+  width:300px;
+  margin-left:140px;
+  border:1px solid black;
+  border-radius: 10px;
+  background-color: #ff4d4d;
+  box-shadow: 5px 10px 18px #888888;
+}
+.save_input{
+  margin:10px;
+}
+.save_btn{
+  width:100px;
+  position:relative;
+  left:100px;
+  margin:2px;
+ 
+}
+.Num_of_data{
+  font-size: larger;
+  font-style: italic;
+font-weight: bold;
 }
